@@ -5,11 +5,11 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>디노토이 - 레고 전문 스마트스토어 | 15년 전문성과 신뢰</title>
-        <meta name="description" content="15년간 레고만 판매해온 전문 스토어. 정품 보장, 최저가 보장, 빠른 배송으로 10만+ 고객이 신뢰하는 디노토이 스마트스토어" />
+        <title>디노토이 - 레고 전문 스마트스토어 | 전문성과 신뢰</title>
+        <meta name="description" content="레고 전문 스토어 디노토이. 정품 보장, 빠른 배송으로 10만+ 고객이 신뢰하는 네이버 스마트스토어" />
         <meta name="keywords" content="레고, LEGO, 레고 전문점, 디노토이, 스마트스토어, 정품 레고, 레고 할인" />
         <meta property="og:title" content="디노토이 - 레고 전문 스마트스토어" />
-        <meta property="og:description" content="15년 전문성과 신뢰로 10만+ 고객이 선택한 레고 전문 스토어" />
+        <meta property="og:description" content="전문성과 신뢰로 10만+ 고객이 선택한 레고 전문 스토어" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://dinotoy-landing.vercel.app" />
         <link rel="canonical" href="https://dinotoy-landing.vercel.app" />
@@ -76,8 +76,8 @@ export default function Home() {
                     </span>
                   </h1>
                   <p className="text-2xl text-gray-600 leading-relaxed max-w-4xl mx-auto">
-                    15년간 레고만 판매해온 전문 스토어<br />
-                    <span className="font-semibold text-green-700">정품 보장, 최저가 보장, 빠른 배송</span>으로 레고 애호가들이 신뢰하는 1등 스토어
+                    레고 전문 스토어 디노토이<br />
+                    <span className="font-semibold text-green-700">정품 보장, 빠른 배송</span>으로 레고 애호가들이 신뢰하는 스마트스토어
                   </p>
                 </div>
                 
@@ -158,7 +158,7 @@ export default function Home() {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center mb-20">
               <h2 className="text-5xl font-bold text-gray-900 mb-6">왜 디노토이를 선택해야 할까요?</h2>
-              <p className="text-2xl text-gray-600">15년간 레고만 판매해온 전문성과 신뢰로 답합니다</p>
+              <p className="text-2xl text-gray-600">레고 전문성과 신뢰로 답합니다</p>
             </div>
 
             <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
@@ -436,7 +436,7 @@ export default function Home() {
                   <span className="ml-3 text-xl font-bold">Dinotoy</span>
                 </div>
                 <p className="text-gray-400 mb-4">레고 전문 스마트스토어</p>
-                <p className="text-gray-400">15년간 레고만 판매해온 전문성과 신뢰로 고객님께 최고의 레고 쇼핑 경험을 제공합니다.</p>
+                <p className="text-gray-400">레고 전문성과 신뢰로 고객님께 최고의 레고 쇼핑 경험을 제공합니다.</p>
               </div>
               <div>
                 <h4 className="font-semibold mb-6">바로가기</h4>
