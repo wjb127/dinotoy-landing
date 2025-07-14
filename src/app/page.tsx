@@ -99,8 +99,8 @@ export default function Home() {
 
                 <div className="grid grid-cols-2 md:grid-cols-4 gap-8 pt-12">
                   <div className="text-center">
-                    <div className="text-4xl font-bold text-gray-900 mb-2">15년</div>
-                    <div className="text-lg text-gray-600">전문 운영</div>
+                    <div className="text-4xl font-bold text-gray-900 mb-2">100%</div>
+                    <div className="text-lg text-gray-600">정품 보장</div>
                     <div className="w-16 h-1 bg-green-500 mx-auto mt-2 rounded"></div>
                   </div>
                   <div className="text-center">
@@ -166,10 +166,10 @@ export default function Home() {
                 <div className="bg-gradient-to-br from-green-100 to-green-200 w-28 h-28 rounded-3xl flex items-center justify-center mx-auto mb-8 group-hover:scale-110 transition-transform duration-300 shadow-lg">
                   <Award className="w-14 h-14 text-green-600" />
                 </div>
-                <h3 className="text-2xl font-bold text-gray-900 mb-4">15년 전문 운영</h3>
+                <h3 className="text-2xl font-bold text-gray-900 mb-4">전문 큐레이션</h3>
                 <p className="text-lg text-gray-600 leading-relaxed">
-                  2009년부터 레고만 전문으로 판매해온 노하우와 경험으로<br />
-                  고객님께 최고의 레고 쇼핑 경험을 제공합니다
+                  레고 전문가가 직접 선별한 인기 상품과<br />
+                  맞춤형 추천으로 최고의 레고 쇼핑 경험을 제공합니다
                 </p>
                 <div className="mt-6 flex justify-center">
                   <div className="bg-green-50 px-4 py-2 rounded-full">
@@ -231,8 +231,8 @@ export default function Home() {
                         <Clock className="w-6 h-6 text-green-600" />
                       </div>
                       <div>
-                        <h4 className="text-xl font-semibold text-gray-900 mb-2">15년간의 전문성</h4>
-                        <p className="text-gray-600">레고만 전문으로 판매하며 쌓아온 깊은 지식과 노하우</p>
+                        <h4 className="text-xl font-semibold text-gray-900 mb-2">전문 지식과 노하우</h4>
+                        <p className="text-gray-600">레고 전문가의 깊은 지식과 풍부한 경험으로 최적의 상품 추천</p>
                       </div>
                     </div>
                     
@@ -316,7 +316,7 @@ export default function Home() {
                   <span className="ml-2 text-gray-600 font-medium">5.0</span>
                 </div>
                 <p className="text-lg text-gray-700 mb-6 leading-relaxed">
-                  &ldquo;15년간 레고를 사면서 여러 곳을 이용해봤지만, 디노토이만큼 믿을 수 있는 곳은 없어요. 
+                  &ldquo;여러 레고 쇼핑몰을 이용해봤지만, 디노토이만큼 믿을 수 있는 곳은 없어요. 
                   정품 보장은 물론이고 포장도 정말 꼼꼼하게 해주세요.&rdquo;
                 </p>
                 <div className="flex items-center">
@@ -391,7 +391,7 @@ export default function Home() {
                 특별한 레고 경험을 시작하세요
               </h2>
               <p className="text-2xl opacity-90 mb-8">
-                15년 전문성 · 정품 보장 · 빠른 배송 · 친절한 서비스
+                전문 큐레이션 · 정품 보장 · 빠른 배송 · 친절한 서비스
               </p>
               
               <div className="flex flex-col sm:flex-row gap-6 justify-center">
