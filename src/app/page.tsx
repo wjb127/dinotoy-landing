@@ -220,7 +220,7 @@ export default function Home() {
                   <div>
                     <h2 className="text-5xl font-bold text-gray-900 mb-6">디노토이 브랜드 스토리</h2>
                     <p className="text-xl text-gray-600 leading-relaxed">
-                      2009년, 레고를 사랑하는 한 사람의 작은 꿈에서 시작된 디노토이는 
+                      레고를 사랑하는 한 사람의 작은 꿈에서 시작된 디노토이는 
                       이제 대한민국 대표 레고 전문 스토어로 성장했습니다.
                     </p>
                   </div>
