@@ -1,4 +1,4 @@
-import { Star, Heart, Menu, Shield, Phone, ArrowRight, Play, Zap, Award, Users, Clock, ExternalLink, CheckCircle, TrendingUp, Sparkles } from 'lucide-react'
+import { Star, Heart, Menu, Shield, Phone, ArrowRight, Play, Award, Users, Clock, ExternalLink, CheckCircle, TrendingUp, Sparkles } from 'lucide-react'
 import Head from 'next/head'
 
 export default function Home() {
