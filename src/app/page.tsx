@@ -1,4 +1,4 @@
-import { Star, ShoppingCart, Heart, Search, Menu, User, Truck, Shield, Phone, ArrowRight, Play, Gift, Zap, Award, Users, Clock, ExternalLink } from 'lucide-react'
+import { Star, Heart, Menu, Shield, Phone, ArrowRight, Play, Zap, Award, Users, Clock, ExternalLink } from 'lucide-react'
 
 export default function Home() {
   return (
@@ -237,10 +237,10 @@ export default function Home() {
                 </div>
                 <span className="ml-2 text-gray-600">5.0</span>
               </div>
-              <p className="text-lg text-gray-700 mb-6 leading-relaxed">
-                "15년간 레고를 사면서 여러 곳을 이용해봤지만, 디노토이만큼 믿을 수 있는 곳은 없어요. 
-                정품 보장은 물론이고 포장도 정말 꼼꼼하게 해주세요."
-              </p>
+                             <p className="text-lg text-gray-700 mb-6 leading-relaxed">
+                 &ldquo;15년간 레고를 사면서 여러 곳을 이용해봤지만, 디노토이만큼 믿을 수 있는 곳은 없어요. 
+                 정품 보장은 물론이고 포장도 정말 꼼꼼하게 해주세요.&rdquo;
+               </p>
               <div className="flex items-center">
                 <div className="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center">
                   <span className="text-xl">👨</span>
@@ -261,10 +261,10 @@ export default function Home() {
                 </div>
                 <span className="ml-2 text-gray-600">5.0</span>
               </div>
-              <p className="text-lg text-gray-700 mb-6 leading-relaxed">
-                "아이가 레고를 너무 좋아해서 자주 구매하는데, 디노토이는 가격도 합리적이고 
-                배송도 빨라서 항상 만족스럽게 이용하고 있습니다."
-              </p>
+                             <p className="text-lg text-gray-700 mb-6 leading-relaxed">
+                 &ldquo;아이가 레고를 너무 좋아해서 자주 구매하는데, 디노토이는 가격도 합리적이고 
+                 배송도 빨라서 항상 만족스럽게 이용하고 있습니다.&rdquo;
+               </p>
               <div className="flex items-center">
                 <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center">
                   <span className="text-xl">👩</span>
@@ -285,10 +285,10 @@ export default function Home() {
                 </div>
                 <span className="ml-2 text-gray-600">5.0</span>
               </div>
-              <p className="text-lg text-gray-700 mb-6 leading-relaxed">
-                "처음 레고를 구매할 때 걱정이 많았는데, 디노토이에서 친절하게 상담해주시고 
-                추천해주신 제품이 정말 만족스러웠어요. 이제 단골이 되었습니다!"
-              </p>
+                             <p className="text-lg text-gray-700 mb-6 leading-relaxed">
+                 &ldquo;처음 레고를 구매할 때 걱정이 많았는데, 디노토이에서 친절하게 상담해주시고 
+                 추천해주신 제품이 정말 만족스러웠어요. 이제 단골이 되었습니다!&rdquo;
+               </p>
               <div className="flex items-center">
                 <div className="w-12 h-12 bg-purple-100 rounded-full flex items-center justify-center">
                   <span className="text-xl">👨</span>
