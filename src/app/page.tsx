@@ -109,8 +109,8 @@ export default function Home() {
                     <div className="w-16 h-1 bg-blue-500 mx-auto mt-2 rounded"></div>
                   </div>
                   <div className="text-center">
-                    <div className="text-4xl font-bold text-gray-900 mb-2">99.9%</div>
-                    <div className="text-lg text-gray-600">정품 보장</div>
+                    <div className="text-4xl font-bold text-gray-900 mb-2">24H</div>
+                    <div className="text-lg text-gray-600">빠른 배송</div>
                     <div className="w-16 h-1 bg-purple-500 mx-auto mt-2 rounded"></div>
                   </div>
                   <div className="text-center">
